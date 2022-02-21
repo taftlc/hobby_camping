@@ -1,0 +1,32 @@
+body {
+	background-image: url("media/outdoors_background.jpg"); 
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover; 
+	background-attachment: fixed;
+	background-color:black; 
+}
+header{
+	color:white
+}
+nav {
+	color: white;
+	font-weight: 900; 
+} 
+h1 {
+	color:#A72915; 
+	font-weight: 900;
+}
+h4 {
+	color:#A72915; 
+	font-weight: 900;
+}
+p {
+	color:white;
+}
+aside {
+	color:white;
+}
+footer{
+	color:white;
+}
